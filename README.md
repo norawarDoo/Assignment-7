@@ -1,4 +1,4 @@
-# Bank DApp Assignment 7 · Infura Sepolia
+# Bank DApp Assignment 6 · Infura Sepolia
 
 1. แตก ZIP แล้วเปิด Terminal ในโฟลเดอร์ที่มี `index.html`
 2. รัน `python3 -m http.server 8000` (Windows ใช้ `py -m http.server 8000`) แล้วเปิด <http://localhost:8000>
